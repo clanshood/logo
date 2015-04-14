@@ -1,0 +1,22 @@
+{
+  "name": "logo",
+  "version": "0.0.1",
+  "authors": [
+    "Clanshood <clanshood@gmail.com>"
+  ],
+  "description": "create logo with svg to use on stilearning templates",
+  "appPath": "app",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.4",
+    "snap.svg": "~0.4.0"
+  }
+}

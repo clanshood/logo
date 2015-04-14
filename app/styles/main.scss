@@ -1,0 +1,14 @@
+$icon-font-path: "../bower_components/bootstrap-sass/assets/fonts/bootstrap/";
+
+
+// bower:scss
+@import "bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+// endbower
+
+.snap-paper{
+  display: block;
+  margin: 20px auto;
+  width: 400px;
+  height: 400px;
+  background-color: #eff1f5;
+}
